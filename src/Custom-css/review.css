@@ -1,0 +1,28 @@
+.card {
+  position: relative;
+  background-color: white;
+  border-radius: 0.375rem;
+  cursor: pointer;
+  transition: all 0.5s ease;
+  transform: scale(0.8);
+}
+
+/* styles for the active card */
+.card-active {
+  background-color: var(--color-primary);
+  color: white;
+  transform: scale(1);
+  top: 40px;
+}
+
+/* styles for the swiper buttons */
+.swiper-button-next,
+.swiper-button-prev {
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  background-color: var(--color-primary);
+  border-radius: 50%;
+}

@@ -1,0 +1,14 @@
+
+.tiptap ul {
+    list-style: disc;
+    padding-left: 2rem;
+  }
+  .tiptap ol {
+    list-style: decimal;
+    padding-left: 2rem;
+  }
+  .tiptap a {
+    color: #2563eb;
+    text-decoration: underline;
+  }
+  

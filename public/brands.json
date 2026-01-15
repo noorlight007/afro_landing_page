@@ -1,0 +1,18 @@
+[
+  { "id": 1, "name": "Twilio", "src": "/src/assets/brands/Twilio.png" },
+  { "id": 2, "name": "meta", "src": "/src/assets/brands/meta.png" },
+  { "id": 3, "name": "AfroGlow", "src": "/src/assets/brands/AfroGlow.png" },
+  { "id": 4, "name": "Melanin Magic", "src": "/src/assets/brands/Melanin_Magic.png" },
+  { "id": 5, "name": "Shea Luxe", "src": "/src/assets/brands/Shea Luxe.png" },
+  { "id": 6, "name": "Curl Haven", "src": "/src/assets/brands/Curl_Haven.png" },
+  { "id": 7, "name": "Nubian Naturals", "src": "/src/assets/brands/Nubian_Naturals.png" },
+  { "id": 8, "name": "Afro Bloom", "src": "/src/assets/brands/Afro_Bloom.png" },
+  { "id": 9, "name": "Twilio", "src": "/src/assets/brands/Twilio.png" },
+  { "id": 10, "name": "meta", "src": "/src/assets/brands/meta.png" },
+  { "id": 11, "name": "AfroGlow", "src": "/src/assets/brands/AfroGlow.png" },
+  { "id": 12, "name": "Melanin Magic", "src": "/src/assets/brands/Melanin_Magic.png" },
+  { "id": 13, "name": "Shea Luxe", "src": "/src/assets/brands/Shea Luxe.png" },
+  { "id": 14, "name": "Curl Haven", "src": "/src/assets/brands/Curl_Haven.png" },
+  { "id": 15, "name": "Nubian Naturals", "src": "/src/assets/brands/Nubian_Naturals.png" },
+  { "id": 16, "name": "Afro Bloom", "src": "/src/assets/brands/Afro_Bloom.png" }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "name": "24/7 Intelligent Booking Assistant",
+    "description": [
+      "Our two-way conversational chatbot handles appointments through both social media and direct channels, operating independently while you focus on your craft."
+    ]
+  },
+  {
+    "name": "Client Style Library",
+    "description": [
+      "A personal catalog for each client including history of past styles, preferences, and products—instantly retrievable when they return."
+    ]
+  },
+
+  {
+    "name": "Boost Revenue with Product Sales",
+    "description": [
+      "Transform your salon into a 24/7 retail powerhouse with our integrated chatbot that allows clients to order your recommended products anytime."
+    ]
+  },
+  {
+    "name": "Your Admin Command Center",
+    "description": [
+      "Oversee your entire business with a master panel while your team manages operations through a secondary panel."
+    ]
+  },
+  {
+    "name": "Style Lookbook",
+    "description": [
+      "Showcase your expertise with a digital portfolio of styles specifically designed for Afro-textured hair. Clients who browse lookbooks are 58% more likely to book appointments and spend 23% more on services than those who don't."
+    ]
+  },
+  {
+    "name": "Geo-location discovery",
+    "description": [
+      "Get discovered by new clients searching for specialized Afro-textured hair services in their area. Our geo-location widget increases visibility by 47% and helps convert 31% more online searches into actual bookings."
+    ]
+  },
+  {
+    "name": "Simplified marketing campaign",
+    "description": [
+      "Launch targeted promotions that speak directly to your clients' needs with templates designed for Afro-textured hair salons. Our automated marketing tools help salons achieve a 41% higher response rate than generic marketing platforms."
+    ]
+  },
+  {
+    "name": "Multilingual support",
+    "description": [
+      "Let clients book in their preferred language, expanding your reach to diverse communities. Salons offering multilingual booking report reaching 26% more clients and increasing their multicultural clientele by 34% within six months."
+    ]
+  }
+]

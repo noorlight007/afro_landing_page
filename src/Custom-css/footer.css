@@ -1,0 +1,30 @@
+/* Base styles for nav links */
+.footer-link {
+  position: relative;
+  display: inline-block;
+  transition: color 0.5s ease;
+}
+
+/* Hover effect */
+.footer-link:not(.active):hover {
+  color: black;
+}
+
+/* Underline animation */
+.footer-link::after {
+  content: "";
+  position: absolute;
+  left: 0%;
+  bottom: -1px;
+  width: 50%;
+  height: 1.5px;
+  background-color: black;
+  transition: width 0.5s ease, right 0.5s ease;
+  transform: translateX(0%);
+}
+
+/* Underline animation on hover */
+.footer-link:not(.active):hover::after {
+  width: 100%;
+  left: 0;
+}

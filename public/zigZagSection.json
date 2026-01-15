@@ -1,0 +1,62 @@
+[
+  {
+    "title": "All-in-One Salon Dashboard",
+    "description": "Centralize everything—bookings, services, staff, clients, and AI chats—into a sleek admin panel that’s easy to use, even for beginners.",
+    "image": "/src/assets/images/zigZag.png"
+  },
+  {
+    "title": "AI-Powered Chatbots (24/7 Assistant)",
+    "description": "Smart, human-like chatbots respond instantly to clients, take bookings, share offers, and route requests to your dashboard—working for you even after business hours.",
+    "image": "/src/assets/images/zigZag.png"
+  },
+  {
+    "title": "Lookbook Style Archive",
+    "description": "Document clients' after-service looks with high-quality photos. Stylists can instantly recall a client’s past styles and deliver consistent, personalized results every time.",
+    "image": "/src/assets/images/zigZag.png"
+  },
+  {
+    "title": "Smart Client Management",
+    "description": "Collect and manage client details through AI conversations, bookings, or manual uploads. Each client has a profile with full service history and preferences.",
+    "image": "/src/assets/images/zigZag.png"
+  },
+  {
+    "title": "Built-in Marketing Engine",
+    "description": "Send promotions, birthday greetings, or flash deals via WhatsApp or Email. Use your AI chatbot or dashboard to drive engagement and increase return visits.",
+    "image": "/src/assets/images/zigZag.png"
+  },
+  {
+    "title": "Digital Quote Requests",
+    "description": "Let clients send service or pricing requests via chatbot. Their queries go straight to your admin panel so you can respond, quote, or follow up professionally.",
+    "image": "/src/assets/images/zigZag.png"
+  },
+  {
+    "title": "Customizable for Any Salon Size",
+    "description": "From single-chair stylists to multi-branch salons, Afrobeutic adapts to your team size, branding, services, and hours. Total flexibility, zero compromise.",
+    "image": "/src/assets/images/zigZag.png"
+  },
+  {
+    "title": "Secure & GDPR-Compliant",
+    "description": "We value privacy. All client and salon data is securely stored with full compliance to industry regulations—keeping your business protected at every level.",
+    "image": "/src/assets/images/zigZag.png"
+  },
+  {
+    "title": "Real-Time Insights & Reports",
+    "description": "Track appointments, client growth, revenue trends, and staff performance with powerful dashboards. Make informed decisions with data at your fingertips.",
+    "image": "/src/assets/images/zigZag.png"
+  },
+  {
+    "title": "Cloud-Based, No Installations Needed",
+    "description": "Run your business from anywhere. Log in from mobile, tablet, or desktop—no installations, just access and grow.",
+    "image": "/src/assets/images/zigZag.png"
+  },
+  {
+    "title": "Onboarding & Support",
+    "description": "We don’t leave you hanging. Enjoy guided onboarding, tutorial videos, and dedicated customer support whenever you need help.",
+    "image": "/src/assets/images/zigZag.png"
+  },
+  {
+    "title": "Future-Ready Updates",
+    "description": "Afrobeutic evolves with the industry. New AI tools, integrations, and features are regularly added—keeping your salon ahead of the curve.",
+    "image": "/src/assets/images/zigZag.png"
+  }
+]

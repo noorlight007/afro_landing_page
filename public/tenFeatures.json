@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "title": "Cutting-edge smart booking",
+    "description": "Our two-way conversational chatbot handles appointments 24/7 through both social media and direct channels, reducing no-shows by 27%."
+  },
+  {
+    "id": 2,
+    "title": "Your Admin Panel",
+    "description": "Oversee your entire business with a master panel while your team manages operations through a secondary panel, designed specifically for Afro-textured hair salon workflows."
+  },
+  {
+    "id": 3,
+    "title": "Boost Visibility",
+    "description": "Get discovered with our geo-location widget and social media integration, turning followers into loyal customers and helping new clients find your specialised services."
+  },
+  {
+    "id": 4,
+    "title": "Marketing campaigns",
+    "description": "Launch targeted promotions that speak directly to your clients' needs with templates designed specifically for Afro-textured hair salons."
+  },
+  {
+    "id": 5,
+    "title": "Client Style Library",
+    "description": "Serve as personal catalogue for each client including the history of past styles, preferences, photos, style descriptions and notes—creating exceptional experiences that increase client retention by 42%."
+  },
+  {
+    "id": 6,
+    "title": "Product Sales",
+    "description": "Allow clients to order your recommended products anytime through our integrated chatbot, with partner salons reporting a 35% increase in monthly product revenue."
+  },
+  {
+    "id": 7,
+    "title": "Multilingual Support",
+    "description": "Let clients book in their preferred language, expanding your reach to diverse communities seeking specialized Afro-textured hair services."
+  },
+  {
+    "id": 8,
+    "title": "Designed for You",
+    "description": "Features tailored specifically for Afro-textured hair salons, including a Style Lookbook and client management tools that understand your unique workflows."
+  },
+  {
+    "id": 9,
+    "title": "Value",
+    "description": "Selling experience that saves time, increases productivity, and helps you capture your fair share of the $4.9 billion global market."
+  },
+  {
+    "id": 10,
+    "title": "Keep 100% of your earnings",
+    "description": "No commissions, no contracts - just a flat monthly fee and the freedom to opt out anytime, ensuring your hard-earned revenue stays where it belongs."
+  }
+]
