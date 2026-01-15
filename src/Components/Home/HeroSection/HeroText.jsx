@@ -24,7 +24,7 @@ const HeroText = () => {
           <strong>— it's time to switch.</strong>
         </p>
         {/* btn */}
-        <a href="https://client.afrobeutic.com/accounts/signup/">
+        <a href="https://afrobeutic-frontend.vercel.app/auth/signup">
           <BtnWithIcon
             className="bg-secondary"
             text="Join Now"

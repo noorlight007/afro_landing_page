@@ -59,7 +59,7 @@ const Navbar = () => {
             <a
               className="px-2 py-1 lg:px-4 lg:py-2  text-xs md:text-base 
               rounded-md"
-              href="https://client.afrobeutic.com/accounts/login/"
+              href="https://afrobeutic-frontend.vercel.app/auth/login"
             >
               {" "}
               Login

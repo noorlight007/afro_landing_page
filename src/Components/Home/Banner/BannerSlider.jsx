@@ -48,7 +48,7 @@ const BannerSlider = () => {
             <a
               className="text-white font-medium py-2 px-3 lg:px-5 
             text-xs md:text-sm lg:text-lg bg-primary rounded-lg"
-              href="https://client.afrobeutic.com/accounts/signup/"
+              href="https://afrobeutic-frontend.vercel.app/auth/signup"
             >
               {" "}
               Register Now

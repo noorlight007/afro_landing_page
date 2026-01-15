@@ -4,7 +4,7 @@ import OutlinedBtn from "./OutlinedBtn";
 const WhyAfrobeuticBtn = () => {
   return (
     <div className="flex lg:justify-center gap-4 text-xs">
-      <a href="https://client.afrobeutic.com/accounts/signup/">
+      <a href="https://afrobeutic-frontend.vercel.app/auth/signup">
         <OutlinedBtn
           className="hover:bg-black hover:text-white"
           text="Join Now"
