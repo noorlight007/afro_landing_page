@@ -28,6 +28,12 @@ const Copyright = () => {
             Privacy Policy
           </Link>
           <Link
+            to={"/meta-login-privacy-policy"}
+            className="hover:text-secondary text-xs xl:text-base"
+          >
+            Meta Privacy Policy
+          </Link>
+          <Link
             to={"/cookie-policy"}
             className="hover:text-secondary text-xs xl:text-base"
           >
