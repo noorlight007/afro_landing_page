@@ -22,6 +22,12 @@ const FooterRight = () => {
           Privacy Policy
         </Link>
         <Link
+          to={"/meta-login-privacy-policy"}
+          className="text-black/80 hover:text-secondary cursor-pointer"
+        >
+          Meta Login Privacy Policy
+        </Link>
+        <Link
           to={"/cookie-policy"}
           className="text-black/80 hover:text-secondary cursor-pointer"
         >
