@@ -60,7 +60,7 @@ const privacyPolicyData = [
   },
 ];
 
-const PrivacyPolicy = () => {
+const MetaPrivacyPolicy = () => {
   return (
     <Container className="max-w-2xl lg:max-w-4xl xl:max-w-6xl">
       <Heading title={"Privacy Policy"} />
@@ -72,4 +72,4 @@ const PrivacyPolicy = () => {
   );
 };
 
-export default PrivacyPolicy;
+export default MetaPrivacyPolicy;
